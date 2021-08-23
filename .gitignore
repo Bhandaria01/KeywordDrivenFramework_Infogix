@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings/
+Screenshot*.png
+test-output/
+testng.xml
